@@ -15,6 +15,39 @@
 		6654F79B211456E400E51A39 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6654F79A211456E400E51A39 /* main.m */; };
 		6654F7A5211456E400E51A39 /* FanListViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6654F7A4211456E400E51A39 /* FanListViewTests.m */; };
 		6654F7B0211456E400E51A39 /* FanListViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6654F7AF211456E400E51A39 /* FanListViewUITests.m */; };
+		6654F7C02114579700E51A39 /* FanScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6654F7BF2114579700E51A39 /* FanScrollView.m */; };
+		6654F7D6211459EA00E51A39 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C2211459E800E51A39 /* 6.jpg */; };
+		6654F7D7211459EA00E51A39 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C3211459E800E51A39 /* 11.jpg */; };
+		6654F7D8211459EA00E51A39 /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C4211459E900E51A39 /* 15.jpg */; };
+		6654F7D9211459EA00E51A39 /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C5211459E900E51A39 /* 20.jpg */; };
+		6654F7DA211459EA00E51A39 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C6211459E900E51A39 /* 2.jpg */; };
+		6654F7DB211459EA00E51A39 /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C7211459E900E51A39 /* 18.jpg */; };
+		6654F7DC211459EA00E51A39 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C8211459E900E51A39 /* 3.jpg */; };
+		6654F7DD211459EA00E51A39 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7C9211459E900E51A39 /* 8.jpg */; };
+		6654F7DE211459EA00E51A39 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7CA211459E900E51A39 /* 10.jpg */; };
+		6654F7DF211459EA00E51A39 /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7CB211459E900E51A39 /* 13.jpg */; };
+		6654F7E0211459EA00E51A39 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7CC211459E900E51A39 /* 1.jpg */; };
+		6654F7E1211459EA00E51A39 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7CD211459E900E51A39 /* 12.jpg */; };
+		6654F7E2211459EA00E51A39 /* 17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7CE211459E900E51A39 /* 17.jpg */; };
+		6654F7E3211459EA00E51A39 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7CF211459E900E51A39 /* 5.jpg */; };
+		6654F7E4211459EA00E51A39 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7D0211459E900E51A39 /* 9.jpg */; };
+		6654F7E5211459EA00E51A39 /* 14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7D1211459E900E51A39 /* 14.jpg */; };
+		6654F7E6211459EA00E51A39 /* 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7D2211459E900E51A39 /* 16.jpg */; };
+		6654F7E7211459EA00E51A39 /* 19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7D3211459E900E51A39 /* 19.jpg */; };
+		6654F7E8211459EA00E51A39 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7D4211459EA00E51A39 /* 4.jpg */; };
+		6654F7E9211459EA00E51A39 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6654F7D5211459EA00E51A39 /* 7.jpg */; };
+		6654F7EC21145C2000E51A39 /* FanHomePageController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6654F7EB21145C2000E51A39 /* FanHomePageController.m */; };
+		6654F7EF21145CE100E51A39 /* FanExampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6654F7EE21145CE100E51A39 /* FanExampleViewController.m */; };
+		6654F7F221145DE600E51A39 /* FanNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6654F7F121145DE600E51A39 /* FanNavigationController.m */; };
+		66BABCC42117E2530074D91B /* CRRobotCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 66BABCC22117E2530074D91B /* CRRobotCell.m */; };
+		66BABCC72117E2710074D91B /* FanScalCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 66BABCC62117E2700074D91B /* FanScalCollectionViewFlowLayout.m */; };
+		66BABCCB2117E4120074D91B /* FanDrawLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 66BABCCA2117E4120074D91B /* FanDrawLayer.m */; };
+		66BABCCE2117E4990074D91B /* FanUIKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 66BABCCD2117E4990074D91B /* FanUIKit.m */; };
+		66BABCD12117E5120074D91B /* FanExampleViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 66BABCD02117E5120074D91B /* FanExampleViewController2.m */; };
+		66BABCD62117E9370074D91B /* cr_py_cancle@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 66BABCD22117E9370074D91B /* cr_py_cancle@3x.png */; };
+		66BABCD72117E9370074D91B /* cr_py_right_pop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 66BABCD32117E9370074D91B /* cr_py_right_pop@2x.png */; };
+		66BABCD82117E9370074D91B /* cr_py_cancle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 66BABCD42117E9370074D91B /* cr_py_cancle@2x.png */; };
+		66BABCD92117E9370074D91B /* cr_py_left_pop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 66BABCD52117E9370074D91B /* cr_py_left_pop@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +84,48 @@
 		6654F7AB211456E400E51A39 /* FanListViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FanListViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6654F7AF211456E400E51A39 /* FanListViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanListViewUITests.m; sourceTree = "<group>"; };
 		6654F7B1211456E400E51A39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6654F7BE2114579700E51A39 /* FanScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanScrollView.h; sourceTree = "<group>"; };
+		6654F7BF2114579700E51A39 /* FanScrollView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanScrollView.m; sourceTree = "<group>"; };
+		6654F7C2211459E800E51A39 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		6654F7C3211459E800E51A39 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		6654F7C4211459E900E51A39 /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		6654F7C5211459E900E51A39 /* 20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpg; sourceTree = "<group>"; };
+		6654F7C6211459E900E51A39 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		6654F7C7211459E900E51A39 /* 18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpg; sourceTree = "<group>"; };
+		6654F7C8211459E900E51A39 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		6654F7C9211459E900E51A39 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		6654F7CA211459E900E51A39 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		6654F7CB211459E900E51A39 /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpg; sourceTree = "<group>"; };
+		6654F7CC211459E900E51A39 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		6654F7CD211459E900E51A39 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
+		6654F7CE211459E900E51A39 /* 17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 17.jpg; sourceTree = "<group>"; };
+		6654F7CF211459E900E51A39 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		6654F7D0211459E900E51A39 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		6654F7D1211459E900E51A39 /* 14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpg; sourceTree = "<group>"; };
+		6654F7D2211459E900E51A39 /* 16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpg; sourceTree = "<group>"; };
+		6654F7D3211459E900E51A39 /* 19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpg; sourceTree = "<group>"; };
+		6654F7D4211459EA00E51A39 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		6654F7D5211459EA00E51A39 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		6654F7EA21145C2000E51A39 /* FanHomePageController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanHomePageController.h; sourceTree = "<group>"; };
+		6654F7EB21145C2000E51A39 /* FanHomePageController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanHomePageController.m; sourceTree = "<group>"; };
+		6654F7ED21145CE100E51A39 /* FanExampleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanExampleViewController.h; sourceTree = "<group>"; };
+		6654F7EE21145CE100E51A39 /* FanExampleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanExampleViewController.m; sourceTree = "<group>"; };
+		6654F7F021145DE600E51A39 /* FanNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanNavigationController.h; sourceTree = "<group>"; };
+		6654F7F121145DE600E51A39 /* FanNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanNavigationController.m; sourceTree = "<group>"; };
+		66BABCC22117E2530074D91B /* CRRobotCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CRRobotCell.m; sourceTree = "<group>"; };
+		66BABCC32117E2530074D91B /* CRRobotCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CRRobotCell.h; sourceTree = "<group>"; };
+		66BABCC52117E2700074D91B /* FanScalCollectionViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanScalCollectionViewFlowLayout.h; sourceTree = "<group>"; };
+		66BABCC62117E2700074D91B /* FanScalCollectionViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanScalCollectionViewFlowLayout.m; sourceTree = "<group>"; };
+		66BABCC92117E4120074D91B /* FanDrawLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanDrawLayer.h; sourceTree = "<group>"; };
+		66BABCCA2117E4120074D91B /* FanDrawLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanDrawLayer.m; sourceTree = "<group>"; };
+		66BABCCC2117E4990074D91B /* FanUIKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanUIKit.h; sourceTree = "<group>"; };
+		66BABCCD2117E4990074D91B /* FanUIKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanUIKit.m; sourceTree = "<group>"; };
+		66BABCCF2117E5120074D91B /* FanExampleViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanExampleViewController2.h; sourceTree = "<group>"; };
+		66BABCD02117E5120074D91B /* FanExampleViewController2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanExampleViewController2.m; sourceTree = "<group>"; };
+		66BABCD22117E9370074D91B /* cr_py_cancle@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cr_py_cancle@3x.png"; sourceTree = "<group>"; };
+		66BABCD32117E9370074D91B /* cr_py_right_pop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cr_py_right_pop@2x.png"; sourceTree = "<group>"; };
+		66BABCD42117E9370074D91B /* cr_py_cancle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cr_py_cancle@2x.png"; sourceTree = "<group>"; };
+		66BABCD52117E9370074D91B /* cr_py_left_pop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cr_py_left_pop@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +156,7 @@
 		6654F77F211456E200E51A39 = {
 			isa = PBXGroup;
 			children = (
+				6654F7BD2114571A00E51A39 /* Classes */,
 				6654F78A211456E300E51A39 /* FanListView */,
 				6654F7A3211456E400E51A39 /* FanListViewTests */,
 				6654F7AE211456E400E51A39 /* FanListViewUITests */,
@@ -101,10 +177,22 @@
 		6654F78A211456E300E51A39 /* FanListView */ = {
 			isa = PBXGroup;
 			children = (
+				66BABCC82117E3E30074D91B /* FanOther */,
+				6654F7C1211459D200E51A39 /* Images */,
 				6654F78B211456E300E51A39 /* AppDelegate.h */,
 				6654F78C211456E300E51A39 /* AppDelegate.m */,
 				6654F78E211456E300E51A39 /* ViewController.h */,
 				6654F78F211456E300E51A39 /* ViewController.m */,
+				6654F7EA21145C2000E51A39 /* FanHomePageController.h */,
+				6654F7EB21145C2000E51A39 /* FanHomePageController.m */,
+				6654F7ED21145CE100E51A39 /* FanExampleViewController.h */,
+				6654F7EE21145CE100E51A39 /* FanExampleViewController.m */,
+				66BABCCF2117E5120074D91B /* FanExampleViewController2.h */,
+				66BABCD02117E5120074D91B /* FanExampleViewController2.m */,
+				66BABCC32117E2530074D91B /* CRRobotCell.h */,
+				66BABCC22117E2530074D91B /* CRRobotCell.m */,
+				6654F7F021145DE600E51A39 /* FanNavigationController.h */,
+				6654F7F121145DE600E51A39 /* FanNavigationController.m */,
 				6654F791211456E300E51A39 /* Main.storyboard */,
 				6654F794211456E400E51A39 /* Assets.xcassets */,
 				6654F796211456E400E51A39 /* LaunchScreen.storyboard */,
@@ -130,6 +218,59 @@
 				6654F7B1211456E400E51A39 /* Info.plist */,
 			);
 			path = FanListViewUITests;
+			sourceTree = "<group>";
+		};
+		6654F7BD2114571A00E51A39 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				6654F7BE2114579700E51A39 /* FanScrollView.h */,
+				6654F7BF2114579700E51A39 /* FanScrollView.m */,
+				66BABCC52117E2700074D91B /* FanScalCollectionViewFlowLayout.h */,
+				66BABCC62117E2700074D91B /* FanScalCollectionViewFlowLayout.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		6654F7C1211459D200E51A39 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				66BABCD42117E9370074D91B /* cr_py_cancle@2x.png */,
+				66BABCD22117E9370074D91B /* cr_py_cancle@3x.png */,
+				66BABCD52117E9370074D91B /* cr_py_left_pop@2x.png */,
+				66BABCD32117E9370074D91B /* cr_py_right_pop@2x.png */,
+				6654F7CC211459E900E51A39 /* 1.jpg */,
+				6654F7C6211459E900E51A39 /* 2.jpg */,
+				6654F7C8211459E900E51A39 /* 3.jpg */,
+				6654F7D4211459EA00E51A39 /* 4.jpg */,
+				6654F7CF211459E900E51A39 /* 5.jpg */,
+				6654F7C2211459E800E51A39 /* 6.jpg */,
+				6654F7D5211459EA00E51A39 /* 7.jpg */,
+				6654F7C9211459E900E51A39 /* 8.jpg */,
+				6654F7D0211459E900E51A39 /* 9.jpg */,
+				6654F7CA211459E900E51A39 /* 10.jpg */,
+				6654F7C3211459E800E51A39 /* 11.jpg */,
+				6654F7CD211459E900E51A39 /* 12.jpg */,
+				6654F7CB211459E900E51A39 /* 13.jpg */,
+				6654F7D1211459E900E51A39 /* 14.jpg */,
+				6654F7C4211459E900E51A39 /* 15.jpg */,
+				6654F7D2211459E900E51A39 /* 16.jpg */,
+				6654F7CE211459E900E51A39 /* 17.jpg */,
+				6654F7C7211459E900E51A39 /* 18.jpg */,
+				6654F7D3211459E900E51A39 /* 19.jpg */,
+				6654F7C5211459E900E51A39 /* 20.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		66BABCC82117E3E30074D91B /* FanOther */ = {
+			isa = PBXGroup;
+			children = (
+				66BABCCC2117E4990074D91B /* FanUIKit.h */,
+				66BABCCD2117E4990074D91B /* FanUIKit.m */,
+				66BABCC92117E4120074D91B /* FanDrawLayer.h */,
+				66BABCCA2117E4120074D91B /* FanDrawLayer.m */,
+			);
+			path = FanOther;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +376,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6654F7E8211459EA00E51A39 /* 4.jpg in Resources */,
+				6654F7E6211459EA00E51A39 /* 16.jpg in Resources */,
+				6654F7DF211459EA00E51A39 /* 13.jpg in Resources */,
+				6654F7DD211459EA00E51A39 /* 8.jpg in Resources */,
+				66BABCD82117E9370074D91B /* cr_py_cancle@2x.png in Resources */,
+				6654F7D9211459EA00E51A39 /* 20.jpg in Resources */,
+				6654F7D7211459EA00E51A39 /* 11.jpg in Resources */,
 				6654F798211456E400E51A39 /* LaunchScreen.storyboard in Resources */,
+				6654F7E1211459EA00E51A39 /* 12.jpg in Resources */,
 				6654F795211456E400E51A39 /* Assets.xcassets in Resources */,
+				66BABCD72117E9370074D91B /* cr_py_right_pop@2x.png in Resources */,
+				6654F7D6211459EA00E51A39 /* 6.jpg in Resources */,
+				6654F7E9211459EA00E51A39 /* 7.jpg in Resources */,
+				66BABCD62117E9370074D91B /* cr_py_cancle@3x.png in Resources */,
+				6654F7E3211459EA00E51A39 /* 5.jpg in Resources */,
+				6654F7E4211459EA00E51A39 /* 9.jpg in Resources */,
+				6654F7DC211459EA00E51A39 /* 3.jpg in Resources */,
+				66BABCD92117E9370074D91B /* cr_py_left_pop@2x.png in Resources */,
+				6654F7DB211459EA00E51A39 /* 18.jpg in Resources */,
 				6654F793211456E300E51A39 /* Main.storyboard in Resources */,
+				6654F7DA211459EA00E51A39 /* 2.jpg in Resources */,
+				6654F7DE211459EA00E51A39 /* 10.jpg in Resources */,
+				6654F7E7211459EA00E51A39 /* 19.jpg in Resources */,
+				6654F7E5211459EA00E51A39 /* 14.jpg in Resources */,
+				6654F7E2211459EA00E51A39 /* 17.jpg in Resources */,
+				6654F7D8211459EA00E51A39 /* 15.jpg in Resources */,
+				6654F7E0211459EA00E51A39 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +428,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				6654F790211456E300E51A39 /* ViewController.m in Sources */,
+				6654F7EC21145C2000E51A39 /* FanHomePageController.m in Sources */,
+				66BABCCE2117E4990074D91B /* FanUIKit.m in Sources */,
+				6654F7C02114579700E51A39 /* FanScrollView.m in Sources */,
+				66BABCC42117E2530074D91B /* CRRobotCell.m in Sources */,
 				6654F79B211456E400E51A39 /* main.m in Sources */,
 				6654F78D211456E300E51A39 /* AppDelegate.m in Sources */,
+				6654F7F221145DE600E51A39 /* FanNavigationController.m in Sources */,
+				6654F7EF21145CE100E51A39 /* FanExampleViewController.m in Sources */,
+				66BABCD12117E5120074D91B /* FanExampleViewController2.m in Sources */,
+				66BABCC72117E2710074D91B /* FanScalCollectionViewFlowLayout.m in Sources */,
+				66BABCCB2117E4120074D91B /* FanDrawLayer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
