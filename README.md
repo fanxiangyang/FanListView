@@ -343,10 +343,11 @@ static BOOL onlyOnePage=NO;//是否允许每次只翻一页
         // 设置缩放比例
         attrs.transform = CGAffineTransformMakeScale(scale, scale);
         if (_isOverlap) {
-            //这里一个重点就是距离远近是一个曲线函数，我用平方，刚好差不多，实际项目如果展示更多个的话们可以修改这个函数
-            attrs.center=CGPointMake(attrs.center.x-zf*(1-scale)*self.itemSize.width*powf(1+(1-scale), 2), attrs.center.y);
             //必须四舍五入，处理有不到1个像素的误差
             attrs.zIndex=(NSInteger)roundf(-ABS(centerX-attrs.center.x)/self.itemSize.width);
+            //这里一个重点就是距离远近是一个曲线函数，我用平方，刚好差不多，实际项目如果展示更多个的话们可以修改这个函数
+            attrs.center=CGPointMake(attrs.center.x-zf*(1-scale)*self.itemSize.width*powf(1+(1-scale), 2), attrs.center.y);
+          
         }
         
     }
